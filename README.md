@@ -1,3 +1,9 @@
-# Engineer's notes about life
+# Нотатки інженера про життя
 
-Auhor Slava Zemlianskyi, Director of Software Engineering, [LinkedIn](https://www.linkedin.com/in/zemlianskyi/)
+_Автор [Вячеслав Землянський](https://www.linkedin.com/in/zemlianskyi/)_
+
+## Статті
+- [Демократія повинна стати Інженерократією, щоб вижити](/articles/engineerocracy-is-the-future-uk.md)
+- [Емоційний інтелект — маркетинговий хайп гуманітаріїв заради грошей](/articles/emotional-intelligence-uk.md)
+## Гумор
+- [Просто автоматизуйте це](/articles/Just-automate-it-uk.md)
