@@ -10,6 +10,7 @@ _Автор [Вячеслав Землянський](https://www.linkedin.com/i
 
 ## Архітектура
 - [Архітектура наших міст склалася у середньовіччя](/articles/architecture-of-our-cities-uk.md)
+- [Робота в офісі знижує ефективність інженерів](/articles/office-work-reduces-efficiency.md)
 
 ## Менеджмент
 - [Демократія повинна стати Інженерократією, щоб вижити](/articles/engineerocracy-is-the-future-uk.md)
