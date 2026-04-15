@@ -1,5 +1,5 @@
 # Навіщо інженерам менеджери та маркетологи?
-_Автор [Вячеслав Землянський](https://www.linkedin.com/in/zemlianskyi/), опубліковано 2026-04-05_
+_Автор [Вячеслав Землянський](https://www.linkedin.com/in/zemlianskyi/), опубліковано 2026-04-05 у [Нотатки інженера](https://github.com/slava-zemlianskyi/engineering-notes/)_
 
 ## Історія ролей, які зникають
 
