@@ -1,5 +1,5 @@
 # Робота в офісі знижує ефективність інженерів
-_Автор [Вячеслав Землянський](https://www.linkedin.com/in/zemlianskyi/), опубліковано 2026-04-10_
+_Автор [Вячеслав Землянський](https://www.linkedin.com/in/zemlianskyi/), опубліковано 2026-04-10 у [Нотатки інженера](https://github.com/slava-zemlianskyi/engineering-notes/)_
 
 ## Інженер працює зі складністю
 
