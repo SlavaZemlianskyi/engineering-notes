@@ -7,6 +7,7 @@ _Автор [Вячеслав Землянський](https://www.linkedin.com/i
 - [Емоційний інтелект — маркетинговий хайп гуманітаріїв заради грошей](/articles/emotional-intelligence-uk.md)
 - [Покоління зумерів не виживає у реальному житті. Криза освіти, яку створили гуманітарії](/articles/zoomers-do-not-survive-in-real-life-uk.md)
 - [Фізика, математика та програмування — основа освіти, якої нам бракує](/articles/foundation-of-education-uk.md)
+- [STEAM застарів: майбутнє освіти за REACT](/articles/react-is-the-future-of-education-uk.md)
 
 ## Архітектура
 - [Архітектура наших міст склалася у середньовіччя](/articles/architecture-of-our-cities-uk.md)
